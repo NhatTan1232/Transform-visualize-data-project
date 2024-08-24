@@ -1,0 +1,4 @@
+profile/
+target/
+dbt_packages/
+logs/
