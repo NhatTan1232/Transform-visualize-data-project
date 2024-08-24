@@ -1,5 +1,5 @@
 # A DATA TRANSFORMATION PROJECT
-> Hi, this is my second project for my DE course, where I'll be convert raw data into a more accessible format with dbt and Google BigQuery for SQL queries!
+> Hi, this is my final project for my DE course, where I'll be convert raw data into a more accessible format with dbt and Google BigQuery for SQL queries!
 
 ## Table of Contents
 * [Project Goal](#project-goal)
@@ -19,8 +19,10 @@
 
 ## Task
 - Use SQL, data source from AdventureWorks2019 and dbt to build this Sales model in Bigquery datamart
-> ![adventureWorks_Sales](https://github.com/NhatTan1232/data-transforming-models/assets/126853176/349add67-b196-457d-b59c-2153c21dc036)
-> ![Uploading adventureWorks_Sales.png…]()
+> ![database](https://github.com/user-attachments/assets/ac8b7afe-0c75-400e-b4c7-46ceb7cdabff)
+> Or you can view the diagrams [here](https://drawsql.app/teams/uit-22/diagrams/glamia-data-mart) to see more description
+> 
+
 
 ## How I Did It
 - Research the AdventureWorks2019 dataset.
