@@ -38,7 +38,7 @@
 
 ## Data Report
 ![report](https://github.com/user-attachments/assets/2cf532be-c6b7-4324-bdea-8000ba282c2d)
-> Or click [here](https://lookerstudio.google.com/reporting/b757f58d-03f1-4248-9ca4-a615644394ce) to view the report.
+> Or click [here](https://lookerstudio.google.com/reporting/ca98663e-7cc9-4440-a152-a6def267a76d) to view the report.
 
 ## Improvements
 > My code is still not fully optimal yet, any feedback would be very helpful!
