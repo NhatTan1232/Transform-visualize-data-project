@@ -37,7 +37,10 @@
 - Load transformed data from Bigquery into Looker Studio for visualization. 
 
 ## Data Report
-![report](https://github.com/user-attachments/assets/2cf532be-c6b7-4324-bdea-8000ba282c2d)
+![overview](https://github.com/user-attachments/assets/3bfab6ef-04ba-44b8-9a9e-d4a8f0c210dd)
+![product](https://github.com/user-attachments/assets/0be2bce9-ea42-44f9-bace-3eca1bae29c0)
+![location](https://github.com/user-attachments/assets/35689159-28cb-441d-bdb4-5464460d8433)
+
 > Or click [here](https://lookerstudio.google.com/reporting/ca98663e-7cc9-4440-a152-a6def267a76d) to view the report.
 
 ## Improvements
